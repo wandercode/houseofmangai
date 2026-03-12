@@ -884,8 +884,13 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+
+.grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
 .grid-cols-auto {
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
 .flex-col {
