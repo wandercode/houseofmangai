@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\houseofmangai\\houseofmangai.csproj": {}
+    "C:\\Users\\syami\\OneDrive\\Desktop\\newprojects\\houseofmangai\\houseofmangai.csproj": {}
   },
   "projects": {
-    "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\houseofmangai\\houseofmangai.csproj": {
+    "C:\\Users\\syami\\OneDrive\\Desktop\\newprojects\\houseofmangai\\houseofmangai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\houseofmangai\\houseofmangai.csproj",
+        "projectUniqueName": "C:\\Users\\syami\\OneDrive\\Desktop\\newprojects\\houseofmangai\\houseofmangai.csproj",
         "projectName": "houseofmangai",
-        "projectPath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\houseofmangai\\houseofmangai.csproj",
+        "projectPath": "C:\\Users\\syami\\OneDrive\\Desktop\\newprojects\\houseofmangai\\houseofmangai.csproj",
         "packagesPath": "C:\\Users\\syami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\syami\\OneDrive\\Desktop\\dotnet\\houseofmangai\\obj\\",
+        "outputPath": "C:\\Users\\syami\\OneDrive\\Desktop\\newprojects\\houseofmangai\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\syami\\AppData\\Roaming\\NuGet\\NuGet.Config",
