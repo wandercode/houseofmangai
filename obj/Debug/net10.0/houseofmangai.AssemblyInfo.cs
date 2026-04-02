@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("houseofmangai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+857f25243e9a8d396cf5bc866734b2e891a88c74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fb94e878587b7baf96e0c8e8811b3187d6f06b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("houseofmangai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("houseofmangai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
